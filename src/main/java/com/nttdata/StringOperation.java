@@ -14,4 +14,8 @@ public class StringOperation {
         return s.contains(s);
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }
